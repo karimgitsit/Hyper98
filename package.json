@@ -12,6 +12,7 @@
     "@nktkas/hyperliquid": "^0.32.2",
     "@safe-global/safe-apps-sdk": "^8.1.0",
     "@tanstack/react-query": "^5.99.0",
+    "@vercel/analytics": "^2.0.1",
     "@wagmi/connectors": "^5.7.0",
     "@wagmi/core": "^2.16.0",
     "clsx": "^2.1.1",
